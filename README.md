@@ -1,4 +1,4 @@
-# <div align="center">Olá, eu sou o Elizabeth Vento</div>
+# <div align="center">Olá, eu sou Elizabeth Vento</div>
 #### <div align="center">  💻 Full-Stack </div>
 
 
